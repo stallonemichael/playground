@@ -9,7 +9,7 @@ const App = () => {
         <img
           src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RhaXNveDh0Z2x0ODdncGMzMXAzMG5rZnVza2kwajhsbWFrNnBxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9qqKRsdsLxXnMrMwM1/giphy.gif'
           alt='Rugrats'
-          className='w-64 h-auto mx-auto rounded-lg'
+          className='h-auto mx-auto rounded-lg'
         />
       </div>
     </div>
